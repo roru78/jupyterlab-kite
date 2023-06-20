@@ -31,7 +31,7 @@
   "repository": "github:krassowski/jupyterlab-lsp",
   "dependencies": {
     "vscode-jsonrpc": "^4.1.0-next",
-    "vscode-languageclient": "^5.2.1",
+    "vscode-languageclient": "^7.0.0",
     "vscode-languageserver-protocol": "^3.14.1",
     "vscode-languageserver-types": "^3.14.0",
     "vscode-ws-jsonrpc": "0.1.1"
